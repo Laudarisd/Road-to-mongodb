@@ -1,7 +1,7 @@
 Intallation
 ======================
 
-## Install mondb in ubuntu 20.04
+## Install mongodb in ubuntu 20.04
 
 **Step one**
 ```
