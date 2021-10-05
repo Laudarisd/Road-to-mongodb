@@ -44,7 +44,7 @@ $ sudo systemctl disable mongodb
 sudo mongo
 ```
 
-#### Create db storeage in local
+#### Create db storeage in local and connect to db
 
 ```
 mongodb --dbpath ./ --logpath ./
